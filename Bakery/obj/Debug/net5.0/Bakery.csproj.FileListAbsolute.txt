@@ -10,3 +10,7 @@ C:\Users\young\desktop\code-projects\BakeryApp\Bakery\bin\Debug\net5.0\Bakery.pd
 C:\Users\young\desktop\code-projects\BakeryApp\Bakery\obj\Debug\net5.0\Bakery.dll
 C:\Users\young\desktop\code-projects\BakeryApp\Bakery\obj\Debug\net5.0\ref\Bakery.dll
 C:\Users\young\desktop\code-projects\BakeryApp\Bakery\obj\Debug\net5.0\Bakery.pdb
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery\bin\Debug\net5.0\Bakery.exe
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery\bin\Debug\net5.0\Bakery.runtimeconfig.json
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery\bin\Debug\net5.0\Bakery.runtimeconfig.dev.json
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery\obj\Debug\net5.0\Bakery.genruntimeconfig.cache

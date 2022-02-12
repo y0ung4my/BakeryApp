@@ -94,3 +94,7 @@ C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\obj\Debug\net5.0\Bak
 C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\obj\Debug\net5.0\ref\Bakery.Tests.dll
 C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\obj\Debug\net5.0\Bakery.Tests.pdb
 C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\obj\Debug\net5.0\Bakery.Tests.genruntimeconfig.cache
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\bin\Debug\net5.0\Bakery.deps.json
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\bin\Debug\net5.0\Bakery.runtimeconfig.json
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\bin\Debug\net5.0\Bakery.runtimeconfig.dev.json
+C:\Users\young\desktop\code-projects\BakeryApp\Bakery.Tests\bin\Debug\net5.0\Bakery.exe

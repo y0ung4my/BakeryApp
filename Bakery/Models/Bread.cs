@@ -4,11 +4,11 @@ namespace Bakery.Models
 {
   public class Bread
   {
-    public int BreadCost;
+    public int BreadCost { get; set; }
 
-    public Bread(int inputtedBreadCost)
+    public Bread(int breadCost)
     {
-      BreadCost = inputtedBreadCost;
+      BreadCost = breadCost;
     }
         public int BuyTwoGetOneSale(int numberOfLoaves)
     {
