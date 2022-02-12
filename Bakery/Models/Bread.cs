@@ -1,6 +1,4 @@
-
 using System;
-
 
 namespace Bakery.Models
 {
@@ -14,15 +12,15 @@ namespace Bakery.Models
     }
         public int BuyTwoGetOneSale(int numberOfLoaves)
     {
-      int finalCost = 0;
-      for (int i = 0; i <= numberOfLoaves; i++) 
+      int finalBreadCost = 0;
+      for (int i = 1; i <= numberOfLoaves; i++) 
       {
         if ( i % 3 != 0 )
         {
-          finalCost += BreadCost;
+          finalBreadCost += BreadCost;
         }
       }
-      return finalCost;
+      return finalBreadCost;
     }
   }
 }
